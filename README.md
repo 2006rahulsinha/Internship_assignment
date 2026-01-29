@@ -9,19 +9,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
-- [Detailed Setup](#detailed-setup)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [Author](#author)
 - [License](#license)
 
